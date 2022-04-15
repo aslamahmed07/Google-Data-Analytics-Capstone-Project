@@ -1,6 +1,2 @@
-# Google-Data-Analytics---Capstone-Project
-Google Data Analytics - Capstone Project
-Author : Aslam Ahmed
-Date : 01.04.2022
-Program : Google Data Analyst program
-![](images/ride by month.png)
+# GDAC_Case Study: Cyclstic Bike-Share
+*This document is created as part of Google Data Analytics Professional Certificates Programm's Capestone Project*
