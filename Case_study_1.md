@@ -29,8 +29,20 @@ Primary Stakeholders : Lily Moreno,The director of marketing
 
 Secondary Stakeholders : Cyclistics executive team
 ## PHASE 2 : Prepare/Data Prep
-The data we are using Cyclist's 12 Months (January-2021 to December 2021) historical trip data made available by Motivate International Inc. 
-[Click here to view Data Set](https://divvy-tripdata.s3.amazonaws.com/index.html)
+The data we will be using is Cyclist's 12 Months (January-2021 to December 2021) historical trip data made available by Motivate International Inc. 
+[Click here to view Data Set](https://divvy-tripdata.s3.amazonaws.com/index.html) under this license[Click here to view license](https://ride.divvybikes.com/data-license-agreement)
 
-[Click here to view license](https://ride.divvybikes.com/data-license-agreement)
+The Data Includes 12 CSV Files with 13 Coloumns which have details of each ride
+
+*The Credibility of the data is determined by the ROCCC approach*
+
+- Reliable – It is complete and accurate and it represents all bike rides taken in the city of Chicago for the selected duration of our analysis.
+- Original - The data is made available by Motivate International Inc. which operates the city of Chicago’s Divvy bicycle sharing service which is powered by Lyft Bikes and scooters LLC.
+- Comprehensive - the data includes all information about ride details including starting time, ending time, station name, station ID, type of membership and many more.
+- Current –  Not Current, Data we are using is from year 2021 
+- Cited - The data is cited and is available under Data License Agreement.[License](https://ride.divvybikes.com/dataalicense-agreement)
+### Data Limitations
+While Checking the data ,found some missing data in "start station name" and "end station name" and found the data incomplete had to remove those particular cells,Further obesrvations suggest the most missing data about "start station name" belongs to "electric_bikes".
+
+This limitation could affect our analysis for findigs about electric_bikes usage which will be useful for furthers analysis and Potential marketing camapaign or data driven business decision making.
 
