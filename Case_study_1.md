@@ -21,7 +21,7 @@ returned to any other station in the system anytime.
 
 3. How can Cyclistic use digital media to influence casual riders to become members?
 ### Business Task
-- Find out how do annual members and casual riders use cyclstic bikes differntly.
+- Find out how do annual members and casual riders use cyclstic bikes differently.
  
 - Find insgihts about bike usage which will be helpful to design marketing strategies for converting casual riders to annual members.
 ### Stakeholders
