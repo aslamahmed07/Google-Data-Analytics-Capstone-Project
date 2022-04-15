@@ -49,15 +49,20 @@ While Checking the data ,found some missing data in "start station name" and "en
 This limitation could affect our analysis for findigs about electric_bikes usage which will be useful for furthers analysis and Potential marketing camapaign or data driven business decision making.
 ## PHASE 3 : Process
 ### Tools used for Process
-#### Data Cleaning or Manipulation for Analysis 
-1 - Microsoft Excel 
+#### Data Cleaning and combining for Analysis 
+##### 1.Microsoft Excel 
+
 Excel is used to check data for erros and incompleteness
 - Downloaded each excel files and stored it in proper folders
 - Checked for Blank cells , foud some blank data on "Start station name" &"End station name" and removed those cells considering it as incomplete data
 - Added a  coloumn named as "ride_length" , which Calculate the length of each ride by subtracting the column “started_at” from the column “ended_at” (for example, =D2-C2) and format as HH:MM:SS using Format > Cells >
 Time > 37:30:55. 
-- added a column called “day_of_week,” and calculate the day of the week that each ride started using the “WEEKDAY”
+- Added a column called “day_of_week,” and calculate the day of the week that each ride started using the “WEEKDAY”
 command (for example, =WEEKDAY(C2,1)) in each file. Format as General or as a number with no decimals, noting that
 1 = Sunday and 7 = Saturday.
+- Added a coloumn called month_of_ride and noted each month of ride for analysis.
+##### 2. R stuido
+Considering the size of the data , Rstuio is used for Combining the 12 Files in to a single sheet
+
 
 
