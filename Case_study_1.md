@@ -56,6 +56,7 @@ Excel is used to check data for erros and incompleteness
 ###### Steps:
 - Downloaded each excel files and stored it in proper folders
 - Checked for Blank cells , foud some blank data on "Start station name" &"End station name" and removed those cells considering it as incomplete data
+- Removed the Coloumns "Start Station Id" &"End Station id" which wasn't required for analysis process
 - Added a  coloumn named as "ride_length" , which Calculate the length of each ride by subtracting the column “started_at” from the column “ended_at” (for example, =D2-C2) and format as HH:MM:SS using Format > Cells >
 Time > 37:30:55. 
 - Added a column called “day_of_week,” and calculate the day of the week that each ride started using the “WEEKDAY”
