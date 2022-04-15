@@ -1,5 +1,5 @@
 # GDAPC_Case Study: Cyclstic Bike-Share
-*This document is created as part of Google Data Analytics Professional Certificates Programm's Capestone Project*
+*This document is created as part of Google Data Analytics Professional Certificate Programm's Capestone Project*
 # Introduction
 You are a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director
 of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore,
