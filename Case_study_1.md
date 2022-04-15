@@ -53,6 +53,7 @@ This limitation could affect our analysis for findigs about electric_bikes usage
 ##### 1.Microsoft Excel 
 
 Excel is used to check data for erros and incompleteness
+###### Steps:
 - Downloaded each excel files and stored it in proper folders
 - Checked for Blank cells , foud some blank data on "Start station name" &"End station name" and removed those cells considering it as incomplete data
 - Added a  coloumn named as "ride_length" , which Calculate the length of each ride by subtracting the column “started_at” from the column “ended_at” (for example, =D2-C2) and format as HH:MM:SS using Format > Cells >
@@ -63,6 +64,6 @@ command (for example, =WEEKDAY(C2,1)) in each file. Format as General or as a nu
 - Added a coloumn called month_of_ride and noted each month of ride for analysis.
 ##### 2. R stuido
 Considering the size of the data , Rstuio is used for Combining the 12 Files in to a single sheet
-
+###### Steps:
 
 
