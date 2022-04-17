@@ -66,5 +66,5 @@ command (for example, =WEEKDAY(C2,1)) in each file. Format as General or as a nu
 ##### 2. R stuido
 Considering the size of the data , Rstuio is used for Combining the 12 Files in to a single sheet
 ###### Steps:
-
+- Uploaded the 12 Excel files to RStudio to Combine them in to Single Sheet
 
