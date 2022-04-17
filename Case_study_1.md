@@ -67,4 +67,17 @@ command (for example, =WEEKDAY(C2,1)) in each file. Format as General or as a nu
 Considering the size of the data , Rstuio is used for Combining the 12 Files in to a single sheet
 ###### Steps:
 - Uploaded the 12 Excel files to RStudio to Combine them in to Single Sheet
-
+``` sql
+install.packages("tidyverse")
+library(readxl)
+ cb1 <- read_excel("E:/GDAC_Capestone_Project/Case_study-Cyclistic Bike Share/Data Set/1-202101-divvy-tripdata.xlsx", 
++     col_types = c("text", "text", "numeric", 
++         "numeric", "text", "text", "numeric", 
++         "numeric", "numeric", "numeric", 
++         "text", "numeric", "numeric", "text"))
+cb2 <- read_excel("E:/GDAC_Capestone_Project/Case_study-Cyclistic Bike Share/Data Set/2-202102-divvy-tripdata.xlsx", 
++     col_types = c("text", "text", "numeric", 
++         "numeric", "text", "text", "numeric", 
++         "numeric", "numeric", "numeric", 
++         "text", "numeric", "numeric", "text"))
+```
