@@ -67,6 +67,7 @@ command (for example, =WEEKDAY(C2,1)) in each file. Format as General or as a nu
 Considering the size of the data , Rstuio is used for Combining the 12 Files in to a single sheet
 ###### Steps:
 - Uploaded the 12 Excel files to RStudio to Combine them in to Single Sheet
+- Used "readxl" function to upload the data into R and named the dataset as "cb1,cb2,cb3,cb3,cb4,cb5,cb6,cb7,cb8,cb9,cb10,cb11,cb12"   
 ``` sql
 library(readxl)
 cb1 <- read_excel("E:/GDAC_Capestone_Project/Case_study-Cyclistic Bike Share/Data Set/1-202101-divvy-tripdata.xlsx") 
@@ -82,3 +83,16 @@ cb10 <- read_excel("E:/GDAC_Capestone_Project/Case_study-Cyclistic Bike Share/Da
 cb11 <- read_excel("E:/GDAC_Capestone_Project/Case_study-Cyclistic Bike Share/Data Set/11-202111-divvy-tripdata.xlsx")
 cb12 <- read_excel("E:/GDAC_Capestone_Project/Case_study-Cyclistic Bike Share/Data Set/12-202112-divvy-tripdata.xlsx")
 ```
+- Combine the 12 Excelsheet into single excel file 
+- Used "bind_rows" function to Combine the data by rows and named it as "Summmary_data_2021"
+``` sql
+install.packages("dplyr")
+library(dplyr)
+summmary_data_2021<-bind_rows(cb1,cb2,cb3,cb4,cb5,cb6,cb7,cb8,cb9,cb10,cb11,cb12)
+View(summmary_data_2021)
+```
+- Exported the file into system by using "write.csv" function and saved it under file name "consodata2021"
+``` sql
+write.csv(summmary_data_2021,"Consodata2021.csv")
+```
+
