@@ -95,4 +95,7 @@ View(summmary_data_2021)
 ``` sql
 write.csv(summmary_data_2021,"Consodata2021.csv")
 ```
-
+#### Data Visualization
+##### Tableau Public
+Tableau Public software used for Visualizing the Insights. [Click here to view the Viz.]()
+## PHASE 5 : Data Analyze
