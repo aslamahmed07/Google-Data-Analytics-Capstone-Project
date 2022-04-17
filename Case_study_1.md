@@ -68,16 +68,17 @@ Considering the size of the data , Rstuio is used for Combining the 12 Files in 
 ###### Steps:
 - Uploaded the 12 Excel files to RStudio to Combine them in to Single Sheet
 ``` sql
-install.packages("tidyverse")
 library(readxl)
- cb1 <- read_excel("E:/GDAC_Capestone_Project/Case_study-Cyclistic Bike Share/Data Set/1-202101-divvy-tripdata.xlsx", 
-+     col_types = c("text", "text", "numeric", 
-+         "numeric", "text", "text", "numeric", 
-+         "numeric", "numeric", "numeric", 
-+         "text", "numeric", "numeric", "text"))
-cb2 <- read_excel("E:/GDAC_Capestone_Project/Case_study-Cyclistic Bike Share/Data Set/2-202102-divvy-tripdata.xlsx", 
-+     col_types = c("text", "text", "numeric", 
-+         "numeric", "text", "text", "numeric", 
-+         "numeric", "numeric", "numeric", 
-+         "text", "numeric", "numeric", "text"))
+cb1 <- read_excel("E:/GDAC_Capestone_Project/Case_study-Cyclistic Bike Share/Data Set/1-202101-divvy-tripdata.xlsx") 
+cb2 <- read_excel("E:/GDAC_Capestone_Project/Case_study-Cyclistic Bike Share/Data Set/2-202102-divvy-tripdata.xlsx") 
+cb3 <- read_excel("E:/GDAC_Capestone_Project/Case_study-Cyclistic Bike Share/Data Set/3-202103-divvy-tripdata.xlsx") 
+cb4 <- read_excel("E:/GDAC_Capestone_Project/Case_study-Cyclistic Bike Share/Data Set/4-202104-divvy-tripdata.xlsx")
+cb5 <- read_excel("E:/GDAC_Capestone_Project/Case_study-Cyclistic Bike Share/Data Set/5-202105-divvy-tripdata.xlsx")
+cb6 <- read_excel("E:/GDAC_Capestone_Project/Case_study-Cyclistic Bike Share/Data Set/6-202106-divvy-tripdata.xlsx")
+cb7 <- read_excel("E:/GDAC_Capestone_Project/Case_study-Cyclistic Bike Share/Data Set/7-202107-divvy-tripdata.xlsx")
+cb8 <- read_excel("E:/GDAC_Capestone_Project/Case_study-Cyclistic Bike Share/Data Set/8-202108-divvy-tripdata.xlsx")
+cb9 <- read_excel("E:/GDAC_Capestone_Project/Case_study-Cyclistic Bike Share/Data Set/9-202109-divvy-tripdata.xlsx")
+cb10 <- read_excel("E:/GDAC_Capestone_Project/Case_study-Cyclistic Bike Share/Data Set/10-202110-divvy-tripdata.xlsx")
+cb11 <- read_excel("E:/GDAC_Capestone_Project/Case_study-Cyclistic Bike Share/Data Set/11-202111-divvy-tripdata.xlsx")
+cb12 <- read_excel("E:/GDAC_Capestone_Project/Case_study-Cyclistic Bike Share/Data Set/12-202112-divvy-tripdata.xlsx")
 ```
