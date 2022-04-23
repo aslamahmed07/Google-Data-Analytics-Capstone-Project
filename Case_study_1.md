@@ -101,4 +101,5 @@ The Final Data Contatins 4,588,302 Rows and 14 Coloumns , which is used for anal
 ##### Tableau Public
 Tableau Public software used for Visualizing the Insights. [Click here to view the Viz.]()
 ## PHASE 5 : Data Analyze
-###### Based on Membership Type Vs Number of Rides
+### Membership Type Vs Number of Rides
+![](https://github.com/aslamahmed07/Google-Data-Analytics---Capstone-Project/blob/main/Membershiptype.png)
