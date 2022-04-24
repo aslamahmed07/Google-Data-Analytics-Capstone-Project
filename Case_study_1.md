@@ -27,7 +27,7 @@ returned to any other station in the system anytime.
 ### Stakeholders
 Primary Stakeholders : Lily Moreno,The director of marketing
 
-Secondary Stakeholders : Cyclistics executive team
+Secondary Stakeholders : Cyclistic executive team
 ## PHASE 2 : Prepare/Data Prep
 The data we will be using is Cyclist's 12 Months (January-2021 to December 2021) historical trip data made available by Motivate International Inc. 
 [Click here to view Data Set](https://divvy-tripdata.s3.amazonaws.com/index.html) under this license[Click here to view license](https://ride.divvybikes.com/data-license-agreement)
