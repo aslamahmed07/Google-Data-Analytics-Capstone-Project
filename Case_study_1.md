@@ -103,3 +103,13 @@ Tableau Public software used for Visualizing the Insights. [Click here to view t
 ## PHASE 5 : Data Analyze
 ### Membership Type Vs Number of Rides
 ![](https://github.com/aslamahmed07/Google-Data-Analytics---Capstone-Project/blob/main/Membershiptype.png)
+
+#### Findings :
+- Member Riders takes more number of trips than Casual Riders
+  
+   *Member Riders : 2,539,923   55% of Total Rides
+   
+   *Casual Riders : 2,048,379  45% of Total Rides
+   
+- Member Riders use Cyclistic bike Share on daily basis  as main mode of point to point transportation
+
