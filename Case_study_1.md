@@ -295,23 +295,23 @@ The Final Data Contatins 4,588,302 Rows and 14 Coloumns , which is used for anal
 
 - Effective and efficient Promotions for targeting casual riders during busiest time and Stations.
 
-     Days : Weekend Days (Saturday & Sunday)
+     - Days : Weekend Days (Saturday & Sunday)
      
-     Month : Summer Season (June, July & August)
+     - Month : Summer Season (June, July & August)
      
-     Top Three Stations : Streeter Dr & Grand Ave.,Michigan Ave & Oak St.Well St & Concord Ln.
+     - Top Three Stations : Streeter Dr & Grand Ave.,Michigan Ave & Oak St.Well St & Concord Ln.
 
 - Our Promotions or advetisement must aware people about Benefits of Cycling on daily life
 
-    Main Benefits of Cycling 
+    #### Main Benefits of Cycling 
    
-    Imporve Mental & Physical Health .
+    - Imporve Mental & Physical Health .
     
-    Cuts down on greenhouse gas emissions and global climate change.
+    - Cuts down on greenhouse gas emissions and global climate change.
 
-    Reduces noise pollution and congestion.
+    - Reduces noise pollution and congestion.
 
-    Saves More Money When Comparing  to Current Fuel Price.
+    - Saves More Money When Comparing  to Current Fuel Price.
  
 
 
