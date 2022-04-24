@@ -98,7 +98,7 @@ write.csv(summmary_data_2021,"Consodata2021.csv")
 
 The Final Data Contatins 4,588,302 Rows and 14 Coloumns , which is used for analyzing the data
 #### Data Visualization
-##### Tableau Public
+##### 3.Tableau Desktop 2022.1
 Tableau Public software used for Visualizing the Insights. [Click here to view the Dashboard](https://public.tableau.com/app/profile/aslam.ahmed/viz/GDAC_Capstone_Project_CyclisticBike-Share/Project#1)
 ## PHASE 5 : Data Analyze
 ### Membership Type Vs Number of Rides
