@@ -289,7 +289,7 @@ The Final Data Contatins 4,588,302 Rows and 14 Coloumns , which is used for anal
 
 - Increase the Charge for Single ride Passes on Evening time especially 4PM to 5 PM to Promote Membership
 
-- Implement Special Summer Season riding Packages icluding Special offers and discount.
+- Implement Special Summer Season riding Packages including Special offers and discount.
 
 - Conduct Weekend Contest and Summer events to Promote Membership.
 
