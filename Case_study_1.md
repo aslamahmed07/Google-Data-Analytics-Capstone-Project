@@ -13,7 +13,7 @@ are geotracked and locked into a network of 692 stations across Chicago. The bik
 returned to any other station in the system anytime.
 
 *This Project includes the following Six Steps/Phases of data analysis process -* **Ask,Prepare,Process,Analyze,Share and Act**
-# PHASE 1 : ASK
+## PHASE 1 : ASK
 #### Three questions will guide the future marketing program:
 1. How do annual members and casual riders use Cyclistic bikes differently?
 
@@ -102,14 +102,36 @@ The Final Data Contatins 4,588,302 Rows and 14 Coloumns , which is used for anal
 Tableau Public software used for Visualizing the Insights. [Click here to view the Dashboard](https://public.tableau.com/app/profile/aslam.ahmed/viz/GDAC_Capstone_Project_CyclisticBike-Share/Project#1)
 ## PHASE 5 : Data Analyze
 ### Membership Type Vs Number of Rides
+
 ![](https://github.com/aslamahmed07/Google-Data-Analytics---Capstone-Project/blob/main/Membershiptype.png)
 
-#### Findings :
+####  Data Findings :
 - Member Riders takes more number of trips than Casual Riders
   
-   *Member Riders : 2,539,923   55% of Total Rides
+   *Member Riders : 2,539,923   55% of Total Rides*
    
-   *Casual Riders : 2,048,379  45% of Total Rides
+   *Casual Riders : 2,048,379  45% of Total Rides*
    
 - Member Riders use Cyclistic bike Share on daily basis  as main mode of point to point transportation
+
+### Average Ride Length by Membershiptype
+
+![](https://github.com/aslamahmed07/Google-Data-Analytics---Capstone-Project/blob/main/2-Avg_Ride_Length.png)
+
+#### Data Findings : 
+
+  *Average Ride length* 
+
+  *Member  Rider : 14 Mints*
+
+  *Casual Rider : 30 Mints* 
+
+- Casual Riders takes less number of rides for longer durations
+
+- Casual Riders mostly use bikes for recreational Purposes
+
+- Annual Members takes more number of rides for short durations
+
+
+
 
