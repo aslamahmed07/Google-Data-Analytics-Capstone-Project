@@ -271,6 +271,53 @@ The Final Data Contatins 4,588,302 Rows and 14 Coloumns , which is used for anal
 - Tableau Desktop 2022.1 Software is used for Data Visulization and Presenting Key Insights  
  [Click here to view the Dashboard](https://public.tableau.com/app/profile/aslam.ahmed/viz/GDAC_Capstone_Project_CyclisticBike-Share/Project#1)
 
+## PHASE  : Act
+
+### Conclusions
+
+- Casual Riders takes less number of trips for Longer duration
+
+- Casual riders are most active on weekend days and on summer season
+
+- Peak ride time is the evening time of the day ie 4Pm - 5PM
+
+- Top 3 Popular Start and End Statins : Streeter Dr & Grand Ave.,Michigan Ave & Oak St.Well St & Concord Ln.
+
+### My Recommendations based on the Key Findings :
+
+- Increase the charge for single day or Single ride passes on weekend days to promote Membership.
+
+- Increase the Charge for Single ride Passes on Evening time especially 4PM to 5 PM to Promote Membership
+
+- Implement Special Summer Season riding Packages icluding Special offers and discount.
+
+- Conduct Weekend Contest and Summer events to Promote Membership.
+
+- Effective and efficient Promotions for targeting casual riders during busiest time and Stations.
+
+     Days : Weekend Days (Saturday & Sunday)
+     Month : Summer Season (June, July & August) 
+     Top Three Stations : Streeter Dr & Grand Ave.,Michigan Ave & Oak St.Well St & Concord Ln.
+
+- Our Promotions or advetisement must aware people about Benefits of Cycling on daily life
+
+    Main Benefits of Cycling 
+   
+    Imporve Mental & Physical Health .
+    
+    Cuts down on greenhouse gas emissions and global climate change.
+
+    Reduces noise pollution and congestion.
+
+    Saves More Money When Comparing  to Current Fuel Price.
+ 
+
+
+
+
+
+
+
 
 
 
