@@ -296,7 +296,9 @@ The Final Data Contatins 4,588,302 Rows and 14 Coloumns , which is used for anal
 - Effective and efficient Promotions for targeting casual riders during busiest time and Stations.
 
      Days : Weekend Days (Saturday & Sunday)
-     Month : Summer Season (June, July & August) 
+     
+     Month : Summer Season (June, July & August)
+     
      Top Three Stations : Streeter Dr & Grand Ave.,Michigan Ave & Oak St.Well St & Concord Ln.
 
 - Our Promotions or advetisement must aware people about Benefits of Cycling on daily life
