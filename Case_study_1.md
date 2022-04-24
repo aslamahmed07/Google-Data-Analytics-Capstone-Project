@@ -101,6 +101,7 @@ The Final Data Contatins 4,588,302 Rows and 14 Coloumns , which is used for anal
 ##### 3.Tableau Desktop 2022.1
 Tableau Public software used for Visualizing the Insights. [Click here to view the Dashboard](https://public.tableau.com/app/profile/aslam.ahmed/viz/GDAC_Capstone_Project_CyclisticBike-Share/Project#1)
 ## PHASE 5 : Data Analyze
+
 ### Membership Type Vs Number of Rides
 
 ![](https://github.com/aslamahmed07/Google-Data-Analytics---Capstone-Project/blob/main/Membershiptype.png)
@@ -148,7 +149,7 @@ Tableau Public software used for Visualizing the Insights. [Click here to view t
 
   *Total No of Rides : 3,12,048*
   
-  ### Number of Rides Vs Month of Ride
+### Number of Rides Vs Month of Ride
   
   ![](https://github.com/aslamahmed07/Google-Data-Analytics---Capstone-Project/blob/main/4-Month%20of%20Ride.png)
   
@@ -185,6 +186,68 @@ Tableau Public software used for Visualizing the Insights. [Click here to view t
    August : 3,32,933
 
 - Highest Number of  rides on month August in  Year 2021
+
+
+### Number of Rides Vs Day of Week
+  
+  ![](https://github.com/aslamahmed07/Google-Data-Analytics---Capstone-Project/blob/main/5-Day%20of%20Week.png)
+  
+  #### Data Findings :
+  
+#### Casual Rider 
+- Popular days  : Saturday & Sunday
+- Weekend days
+- Number of Rides in Each Days
+   Saturday : 4,68,331
+   Sunday : 4,03,789 
+
+- Casual Riders uses Cyclistic bikes mostly on weekend days.
+
+- Significant increase in number of rides from friday to saturday.
+
+#### Member Rider
+ 
+- Popular days  : Tuesday & Wednesday
+- Weekdays
+- Number of Rides in Each Days
+   Tuesday : 3,88,132
+   Wednesday : 3,97,720
+   
+- Member Riders uses Cyclistic bikes mostly on weekdays.
+
+- Couldnt find any remarkable increase in the number of rides through out the week. 
+
+### Number of Rides Vs Time od day
+
+1[](https://github.com/aslamahmed07/Google-Data-Analytics---Capstone-Project/blob/main/6-Ridetime%20of%20Day.png)
+
+#### Casual Rider 
+- Peak time  : 4PM & 5PM
+- Number of Rides 
+   4PM : 1,67,976
+   5PM : 1,95,963 
+
+- Peak time for Casual riders to use bikes are 4PM & 5PM of the Day
+
+#### Member Rider 
+- Peak time  : 4PM & 5PM
+- Number of Rides 
+   4PM : 2,16,690
+   5PM : 2,73,672 
+
+- Peak time for Member riders to use bikes are 4PM & 5PM of the Day
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
