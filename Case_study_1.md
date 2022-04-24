@@ -217,9 +217,9 @@ Tableau Public software used for Visualizing the Insights. [Click here to view t
 
 - Couldnt find any remarkable increase in the number of rides through out the week. 
 
-### Number of Rides Vs Time od day
+### Number of Rides Vs Time of day
 
-1[](https://github.com/aslamahmed07/Google-Data-Analytics---Capstone-Project/blob/main/6-Ridetime%20of%20Day.png)
+![](https://github.com/aslamahmed07/Google-Data-Analytics---Capstone-Project/blob/main/6-Ridetime%20of%20Day.png)
 
 #### Casual Rider 
 - Peak time  : 4PM & 5PM
