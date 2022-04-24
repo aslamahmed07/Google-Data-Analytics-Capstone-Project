@@ -192,7 +192,7 @@ Tableau Public software used for Visualizing the Insights. [Click here to view t
   
   ![](https://github.com/aslamahmed07/Google-Data-Analytics---Capstone-Project/blob/main/5-Day%20of%20Week.png)
   
-  #### Data Findings :
+#### Data Findings :
   
 #### Casual Rider 
 - Popular days  : Saturday & Sunday
@@ -221,6 +221,8 @@ Tableau Public software used for Visualizing the Insights. [Click here to view t
 
 ![](https://github.com/aslamahmed07/Google-Data-Analytics---Capstone-Project/blob/main/6-Ridetime%20of%20Day.png)
 
+#### Data Findings :
+
 #### Casual Rider 
 - Peak time  : 4PM & 5PM
 - Number of Rides 
@@ -236,6 +238,16 @@ Tableau Public software used for Visualizing the Insights. [Click here to view t
    5PM : 2,73,672 
 
 - Peak time for Member riders to use bikes are 4PM & 5PM of the Day
+
+### Peak Ride time on Summer Season
+
+![](https://github.com/aslamahmed07/Google-Data-Analytics---Capstone-Project/blob/main/7-Ride%20Time%20of%20day%20on%20Peak%20Months.png)
+
+#### Data Findings :
+
+- As we found earlier popular or peak month for both Casual and member riders was June July & August which is the Summer Seaon
+
+- When we analysed the Number of rides of the summer season we found that Evening time was the peak time for Most usage of Bikes
 
 
 
