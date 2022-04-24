@@ -13,7 +13,7 @@ are geotracked and locked into a network of 692 stations across Chicago. The bik
 returned to any other station in the system anytime.
 
 *This Project includes the following Six Steps/Phases of data analysis process -* **Ask,Prepare,Process,Analyze,Share and Act**
-## PHASE 1 : ASK
+## PHASE 1 : Ask
 #### Three questions will guide the future marketing program:
 1. How do annual members and casual riders use Cyclistic bikes differently?
 
@@ -100,7 +100,10 @@ The Final Data Contatins 4,588,302 Rows and 14 Coloumns , which is used for anal
 #### Data Visualization
 ##### 3.Tableau Desktop 2022.1
 Tableau Public software used for Visualizing the Insights. [Click here to view the Dashboard](https://public.tableau.com/app/profile/aslam.ahmed/viz/GDAC_Capstone_Project_CyclisticBike-Share/Project#1)
-## PHASE 5 : Data Analyze
+
+## PHASE 4 : Data Analyze
+
+*Data Visulizations and Insights i found are Explained in this Phase* [Click here to view the Dashboard](https://public.tableau.com/app/profile/aslam.ahmed/viz/GDAC_Capstone_Project_CyclisticBike-Share/Project#1)
 
 ### Membership Type Vs Number of Rides
 
@@ -248,6 +251,33 @@ Tableau Public software used for Visualizing the Insights. [Click here to view t
 - As we found earlier popular or peak month for both Casual and member riders was June July & August which is the Summer Seaon
 
 - When we analysed the Number of rides of the summer season we found that Evening time was the peak time for Most usage of Bikes
+
+### Popular Start Stations
+
+![](https://github.com/aslamahmed07/Google-Data-Analytics---Capstone-Project/blob/main/8-Popular%20Start%20Station.png)
+
+### Popular End Stations
+
+![](https://github.com/aslamahmed07/Google-Data-Analytics---Capstone-Project/blob/main/8-Popular%20Start%20Station.png)
+
+#### Data Findings :
+
+##### Top 5 Popular Start & End Staions
+       Streeter Dr & Grand Ave.
+       Michigan Ave & Oak St.
+       Well St & Concord Ln.
+       Millenium Park.
+       Clark St & Elm St.
+       
+## PHASE 5 : Share
+
+
+
+
+
+
+
+
 
 
 
