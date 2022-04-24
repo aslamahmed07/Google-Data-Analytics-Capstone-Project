@@ -132,6 +132,70 @@ Tableau Public software used for Visualizing the Insights. [Click here to view t
 
 - Annual Members takes more number of rides for short durations
 
+### Number of Rides by Bike Type
+
+![](https://github.com/aslamahmed07/Google-Data-Analytics---Capstone-Project/blob/main/3-BikeType_Rideable%20type.png)
+
+#### Data Findings : 
+
+- Popular bike type among both Member Rider and Casual rider is classic bike 
+  
+  *Total No of Rides : 3,241,988*
+
+- Found 71 % of Riders use Classic Bikes Comparing with total of rides in the year 2021
+
+- Docked bike are only used by Casual rider
+
+  *Total No of Rides : 3,12,048*
+  
+  ### Number of Rides Vs Month of Ride
+  
+  ![](https://github.com/aslamahmed07/Google-Data-Analytics---Capstone-Project/blob/main/4-Month%20of%20Ride.png)
+  
+  #### Data Findings :
+  
+##### Casual Rider                                                                   
+
+- Popular Months  : June,July & August                                          
+   
+- Season : Summer Season                                                       
+  
+- Number of Rides in Each Month                                                 
+   
+   June : 3,04,192                                                               
+   
+   July : 3,69,415
+   
+   August : 3,41,476
+
+- Highest Number of  rides on month July in Year 2021
+
+##### Member Rider
+
+- Popular Months  : June,July& August 
+
+- Season : Summer Season 
+
+- Number of Rides in each Month
+
+   June : 3,04,586
+
+   July : 3,22,906
+
+   August : 3,32,933
+
+- Highest Number of  rides on month August in  Year 2021
+
+
+
+
+
+
+
+
+
+
+
 
 
 
